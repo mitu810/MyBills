@@ -14,7 +14,7 @@
             android:drawableTop="@mipmap/it_xiqing"
             android:background="@drawable/mainlv_item_top_bg"
             android:textColor="@color/black"
-            android:text="账单详情"/>
+            android:text="账单"/>
         <Button
             android:id="@+id/dialog_more_btn_record"
 
@@ -25,7 +25,17 @@
             android:layout_marginLeft="15dp"
             android:layout_marginRight="15dp"
             android:background="@drawable/mainlv_item_top_bg"
-            android:text="历史账单"/>
+            android:text="历史"/>
+        <Button
+            android:id="@+id/dialog_more_btn_music"
+            android:drawableTop="@mipmap/it_music"
+            android:textColor="@color/black"
+
+            android:layout_marginRight="15dp"
+            android:background="@drawable/mainlv_item_top_bg"
+            style="@style/dialogmoreStyle"
+
+            android:text="音乐"/>
         <Button
             android:id="@+id/dialog_more_btn_setting"
             android:drawableTop="@mipmap/it_shezhi"
