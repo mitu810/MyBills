@@ -16,12 +16,13 @@ import androidx.annotation.NonNull;
 
 import iot.b19060630.mybill.HistoryActivity;
 import iot.b19060630.mybill.MonthChartActivity;
+import iot.b19060630.mybill.MusicPlayerActivity;
 import iot.b19060630.mybill.R;
 import iot.b19060630.mybill.SettingActivity;
 
 
 public class MoreDialog extends Dialog implements View.OnClickListener {
-    Button aboutBtn,settingBtn,historyBtn,infoBtn;
+    Button aboutBtn,settingBtn,historyBtn,infoBtn,musicBtn;
     ImageView errorIv;
     public MoreDialog(@NonNull Context context) {
         super(context);
@@ -32,12 +33,14 @@ public class MoreDialog extends Dialog implements View.OnClickListener {
         setContentView(R.layout.dialog_more);
 //        aboutBtn = findViewById(R.id.dialog_more_btn_about);
         settingBtn = findViewById(R.id.dialog_more_btn_setting);
+        musicBtn = findViewById(R.id.dialog_more_btn_music);
         historyBtn = findViewById(R.id.dialog_more_btn_record);
         infoBtn = findViewById(R.id.dialog_more_btn_info);
 //        errorIv = findViewById(R.id.dialog_more_iv);
 
 //        aboutBtn.setOnClickListener(this);
         settingBtn.setOnClickListener(this);
+        musicBtn.setOnClickListener(this);
         historyBtn.setOnClickListener(this);
         infoBtn.setOnClickListener(this);
 //        errorIv.setOnClickListener(this);
@@ -50,6 +53,10 @@ public class MoreDialog extends Dialog implements View.OnClickListener {
 
             case R.id.dialog_more_btn_setting:
                 intent.setClass(getContext(), SettingActivity.class);
+                getContext().startActivity(intent);
+                break;
+            case R.id.dialog_more_btn_music:
+                intent.setClass(getContext(), MusicPlayerActivity.class);
                 getContext().startActivity(intent);
                 break;
             case R.id.dialog_more_btn_record:

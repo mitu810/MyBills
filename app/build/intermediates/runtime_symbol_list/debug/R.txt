@@ -1683,6 +1683,7 @@ int drawable abc_textfield_search_activated_mtrl_alpha 0x7f070052
 int drawable abc_textfield_search_default_mtrl_alpha 0x7f070053
 int drawable abc_textfield_search_material 0x7f070054
 int drawable abc_vector_test 0x7f070055
+int drawable album_cover 0x7f07009a
 int drawable avd_hide_password 0x7f070056
 int drawable avd_show_password 0x7f070057
 int drawable btn_checkbox_checked_mtrl 0x7f070058
@@ -1819,6 +1820,7 @@ int id action_text 0x7f080040
 int id actions 0x7f080041
 int id activity_chooser_view_content 0x7f080042
 int id add 0x7f080043
+int id album_image 0x7f0801fc
 int id alertTitle 0x7f080044
 int id aligned 0x7f080045
 int id all 0x7f080046
@@ -1839,6 +1841,8 @@ int id beginning 0x7f080054
 int id blocking 0x7f080055
 int id bottom 0x7f080056
 int id bounce 0x7f080057
+int id btn_login 0x7f0801f5
+int id btn_register 0x7f0801f6
 int id buttonPanel 0x7f080058
 int id cache_measures 0x7f080059
 int id cancel_button 0x7f08005a
@@ -1905,6 +1909,7 @@ int id dialog_button 0x7f080096
 int id dialog_calendar_gv 0x7f080097
 int id dialog_calendar_layout 0x7f080098
 int id dialog_more_btn_info 0x7f080099
+int id dialog_more_btn_music 0x7f0801fb
 int id dialog_more_btn_record 0x7f08009a
 int id dialog_more_btn_setting 0x7f08009b
 int id dialog_time_btn_cancel 0x7f08009c
@@ -1934,6 +1939,9 @@ int id end 0x7f0800b3
 int id endToStart 0x7f0800b4
 int id enterAlways 0x7f0800b5
 int id enterAlwaysCollapsed 0x7f0800b6
+int id et_email 0x7f0801f7
+int id et_password 0x7f0801f8
+int id et_username 0x7f0801f9
 int id exitUntilCollapsed 0x7f0800b7
 int id expand_activities_button 0x7f0800b8
 int id expanded_menu 0x7f0800b9
@@ -2105,9 +2113,11 @@ int id parent_matrix 0x7f08015e
 int id password_toggle 0x7f08015f
 int id path 0x7f080160
 int id pathRelative 0x7f080161
+int id pause_button 0x7f0801fd
 int id peekHeight 0x7f080162
 int id percent 0x7f080163
 int id pin 0x7f080164
+int id play_button 0x7f0801fe
 int id position 0x7f080165
 int id postLayout 0x7f080166
 int id progress_circular 0x7f080167
@@ -2161,6 +2171,7 @@ int id snackbar_action 0x7f080196
 int id snackbar_text 0x7f080197
 int id snap 0x7f080198
 int id snapMargins 0x7f080199
+int id song_text 0x7f0801ff
 int id spacer 0x7f08019a
 int id special_effects_controller_view_tag 0x7f08019b
 int id spline 0x7f08019c
@@ -2179,6 +2190,7 @@ int id startVertical 0x7f0801a8
 int id staticLayout 0x7f0801a9
 int id staticPostLayout 0x7f0801aa
 int id stop 0x7f0801ab
+int id stop_button 0x7f080200
 int id stretch 0x7f0801ac
 int id submenuarrow 0x7f0801ad
 int id submit_area 0x7f0801ae
@@ -2232,6 +2244,7 @@ int id transition_position 0x7f0801dd
 int id transition_scene_layoutid_cache 0x7f0801de
 int id transition_transform 0x7f0801df
 int id triangle 0x7f0801e0
+int id tv_title 0x7f0801fa
 int id unchecked 0x7f0801e1
 int id uniform 0x7f0801e2
 int id unlabeled 0x7f0801e3
@@ -2316,9 +2329,12 @@ int layout abc_search_view 0x7f0b0019
 int layout abc_select_dialog_material 0x7f0b001a
 int layout abc_tooltip 0x7f0b001b
 int layout activity_history 0x7f0b001c
+int layout activity_login 0x7f0b0083
 int layout activity_main 0x7f0b001d
 int layout activity_month_chart 0x7f0b001e
+int layout activity_music_player 0x7f0b0085
 int layout activity_record 0x7f0b001f
+int layout activity_register 0x7f0b0084
 int layout activity_setting 0x7f0b0020
 int layout custom_dialog 0x7f0b0021
 int layout design_bottom_navigation_item 0x7f0b0022
@@ -2483,6 +2499,7 @@ int mipmap in_yiwai_fs 0x7f0c003d
 int mipmap it_back 0x7f0c003e
 int mipmap it_guanyu 0x7f0c003f
 int mipmap it_jilu 0x7f0c0040
+int mipmap it_music 0x7f0c0047
 int mipmap it_rili 0x7f0c0041
 int mipmap it_searchtext 0x7f0c0042
 int mipmap it_shezhi 0x7f0c0043
@@ -2490,6 +2507,7 @@ int mipmap it_xiqing 0x7f0c0044
 int mipmap more 0x7f0c0045
 int mipmap search 0x7f0c0046
 int plurals mtrl_badge_content_description 0x7f0d0000
+int raw music 0x7f120000
 int string abc_action_bar_home_description 0x7f0e0000
 int string abc_action_bar_up_description 0x7f0e0001
 int string abc_action_menu_overflow_description 0x7f0e0002

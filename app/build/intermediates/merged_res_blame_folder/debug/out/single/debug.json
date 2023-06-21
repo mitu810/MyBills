@@ -1,458 +1,486 @@
 [
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/drawable_main_budget_btn_bg.xml.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/drawable/main_budget_btn_bg.xml"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-hdpi_ih_hide.png.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-hdpi\\ih_hide.png"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-hdpi_edit_btn_bg2.png.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-hdpi/edit_btn_bg2.png"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-mdpi_ic_xuexi.png.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-mdpi\\ic_xuexi.png"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/drawable_mainlv_item_bg.xml.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/drawable/mainlv_item_bg.xml"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-mdpi_it_guanyu.png.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-mdpi\\it_guanyu.png"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-mdpi_ic_gouwu.png.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-mdpi/ic_gouwu.png"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\drawable_i2.png.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\drawable\\i2.png"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-mdpi_it_jilu.png.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-mdpi/it_jilu.png"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-mdpi_it_xiqing.png.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-mdpi\\it_xiqing.png"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/drawable_dialog_btn_bg.xml.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/drawable/dialog_btn_bg.xml"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-mdpi_in_xinzi.png.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-mdpi\\in_xinzi.png"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/layout_dialog_calendar.xml.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/layout/dialog_calendar.xml"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-mdpi_ic_fushi.png.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-mdpi\\ic_fushi.png"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/drawable_main_morebtn_bg.xml.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/drawable/main_morebtn_bg.xml"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\layout_dialog_budget.xml.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\layout\\dialog_budget.xml"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/layout_fragment_incom_chart.xml.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/layout/fragment_incom_chart.xml"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-hdpi_edit_btn_bg.png.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-hdpi\\edit_btn_bg.png"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-mdpi_in_touzi_fs.png.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-mdpi/in_touzi_fs.png"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-mdpi_ic_lingshi_fs.png.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-mdpi\\ic_lingshi_fs.png"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-hdpi_edit.png.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-hdpi/edit.png"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-mdpi_it_back.png.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-mdpi\\it_back.png"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-mdpi_in_jiangjin_fs.png.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-mdpi/in_jiangjin_fs.png"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-hdpi_edit.png.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-hdpi\\edit.png"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/xml_data_extraction_rules.xml.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/xml/data_extraction_rules.xml"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-mdpi_in_jiangjin.png.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-mdpi\\in_jiangjin.png"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-mdpi_ic_shuidianfei.png.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-mdpi/ic_shuidianfei.png"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-hdpi_ic_icon1.png.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-hdpi/ic_icon1.png"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-mdpi_in_yiwai.png.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-mdpi/in_yiwai.png"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-mdpi_ic_yanjiu.png.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-mdpi\\ic_yanjiu.png"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/layout_fragment_outcome.xml.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/layout/fragment_outcome.xml"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\layout_item_mainlv_top.xml.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\layout\\item_mainlv_top.xml"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/layout_item_mainlv.xml.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/layout/item_mainlv.xml"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-mdpi_in_qt.png.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-mdpi\\in_qt.png"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/layout_item_mainlv_top.xml.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/layout/item_mainlv_top.xml"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-mdpi_in_lixifuji_fs.png.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-mdpi\\in_lixifuji_fs.png"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-mdpi_ic_canyin.png.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-mdpi/ic_canyin.png"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-hdpi_it_searchtext.png.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-hdpi\\it_searchtext.png"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-mdpi_ic_yiliao.png.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-mdpi/ic_yiliao.png"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-mdpi_ic_renqingwanglai.png.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-mdpi\\ic_renqingwanglai.png"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-mdpi_ic_yanjiu.png.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-mdpi/ic_yanjiu.png"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\drawable_dialog_btn_bg.xml.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\drawable\\dialog_btn_bg.xml"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\layout_item_recordfrag_gv.xml.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\layout\\item_recordfrag_gv.xml"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/drawable_record_bg.xml.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/drawable/record_bg.xml"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-mdpi_ic_shicai_fs.png.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-mdpi\\ic_shicai_fs.png"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-hdpi_ih_error.png.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-hdpi/ih_error.png"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-hdpi_ic_icon1.png.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-hdpi\\ic_icon1.png"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-mdpi_ic_canyin_fs.png.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-mdpi/ic_canyin_fs.png"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-mdpi_ic_shuidianfei.png.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-mdpi\\ic_shuidianfei.png"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-mdpi_ic_yanjiu_fs.png.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-mdpi/ic_yanjiu_fs.png"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\layout_dialog_calendar.xml.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\layout\\dialog_calendar.xml"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/layout_dialog_beizhu.xml.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/layout/dialog_beizhu.xml"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\drawable_mainlv_item_bg.xml.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\drawable\\mainlv_item_bg.xml"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-mdpi_in_xinzi.png.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-mdpi/in_xinzi.png"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-mdpi_ic_jiaotong_fs.png.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-mdpi\\ic_jiaotong_fs.png"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/layout_dialog_budget.xml.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/layout/dialog_budget.xml"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-mdpi_in_jieru_fs.png.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-mdpi\\in_jieru_fs.png"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/layout_activity_record.xml.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/layout/activity_record.xml"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-mdpi_in_shouzhai.png.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-mdpi\\in_shouzhai.png"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-mdpi_ic_riyongpin.png.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-mdpi/ic_riyongpin.png"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\layout_item_chartfrag_lv.xml.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\layout\\item_chartfrag_lv.xml"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-mdpi_in_touzi_fs.png.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-mdpi\\in_touzi_fs.png"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-mdpi_in_jiangjin_fs.png.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-mdpi\\in_jiangjin_fs.png"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-mdpi_in_jiangjin.png.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-mdpi/in_jiangjin.png"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\drawable_album_cover.jpeg.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\drawable\\album_cover.jpeg"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-mdpi_ic_renqingwanglai.png.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-mdpi/ic_renqingwanglai.png"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-mdpi_ic_zhufang_fs.png.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-mdpi\\ic_zhufang_fs.png"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/layout_item_dialogcal_hsv.xml.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/layout/item_dialogcal_hsv.xml"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-hdpi_ih_show.png.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-hdpi\\ih_show.png"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-mdpi_ic_qita.png.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-mdpi/ic_qita.png"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\layout_item_dialogcal_hsv.xml.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\layout\\item_dialogcal_hsv.xml"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/drawable_details.png.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/drawable/details.png"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-hdpi_search.png.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-hdpi\\search.png"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-mdpi_ic_yule.png.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-mdpi/ic_yule.png"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-hdpi_ih_error.png.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-hdpi\\ih_error.png"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-mdpi_ic_shicai.png.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-mdpi/ic_shicai.png"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-hdpi_edit_btn_bg2.png.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-hdpi\\edit_btn_bg2.png"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-mdpi_ic_zhufang_fs.png.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-mdpi/ic_zhufang_fs.png"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\drawable_main_budget_btn_bg.xml.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\drawable\\main_budget_btn_bg.xml"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-hdpi_it_searchtext.png.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-hdpi/it_searchtext.png"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-mdpi_ic_shicai.png.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-mdpi\\ic_shicai.png"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-mdpi_ic_shicai_fs.png.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-mdpi/ic_shicai_fs.png"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\layout_item_mainlv.xml.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\layout\\item_mainlv.xml"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-mdpi_in_shouzhai.png.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-mdpi/in_shouzhai.png"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\layout_activity_record.xml.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\layout\\activity_record.xml"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/layout_item_dialogcal_gv.xml.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/layout/item_dialogcal_gv.xml"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-hdpi_ih_biaoge.png.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-hdpi\\ih_biaoge.png"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/layout_activity_setting.xml.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/layout/activity_setting.xml"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\drawable-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\layout_dialog_time.xml.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\layout\\dialog_time.xml"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/drawable_main_recordbtn_bg.xml.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/drawable/main_recordbtn_bg.xml"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-mdpi_ic_renqingwanglai_fs.png.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-mdpi\\ic_renqingwanglai_fs.png"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-mdpi_ic_tongxun_fs.png.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-mdpi/ic_tongxun_fs.png"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-mdpi_ic_yanjiu_fs.png.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-mdpi\\ic_yanjiu_fs.png"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/drawable_mainlv_item_top_bg.xml.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/drawable/mainlv_item_top_bg.xml"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-mdpi_ic_yiliao_fs.png.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-mdpi\\ic_yiliao_fs.png"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-mdpi_ic_fushi_fs.png.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-mdpi/ic_fushi_fs.png"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\layout\\activity_register.xml"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-mdpi_in_yiwai_fs.png.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-mdpi/in_yiwai_fs.png"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-mdpi_ic_canyin_fs.png.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-mdpi\\ic_canyin_fs.png"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-mdpi_in_qt.png.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-mdpi/in_qt.png"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-mdpi_ic_tongxun_fs.png.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-mdpi\\ic_tongxun_fs.png"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\raw_music.mp3.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\raw\\music.mp3"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-mdpi_ic_yiliao_fs.png.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-mdpi/ic_yiliao_fs.png"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-mdpi_it_jilu.png.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-mdpi\\it_jilu.png"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-mdpi_ic_jiaotong_fs.png.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-mdpi/ic_jiaotong_fs.png"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-mdpi_in_ershoushebei_fs.png.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-mdpi/in_ershoushebei_fs.png"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-mdpi_in_lixifuji.png.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-mdpi/in_lixifuji.png"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\drawable_record_bg.xml.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\drawable\\record_bg.xml"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/layout_activity_history.xml.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/layout/activity_history.xml"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-mdpi_it_rili.png.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-mdpi\\it_rili.png"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-mdpi_in_jieru_fs.png.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-mdpi/in_jieru_fs.png"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\layout_activity_setting.xml.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\layout\\activity_setting.xml"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/xml_key.xml.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/xml/key.xml"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-hdpi_ih_biaoge.png.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-hdpi/ih_biaoge.png"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\drawable_main_recordbtn_bg.xml.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\drawable\\main_recordbtn_bg.xml"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-mdpi_ic_jiaotong.png.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-mdpi\\ic_jiaotong.png"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/layout_activity_main.xml.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/layout/activity_main.xml"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-mdpi_in_touzi.png.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-mdpi/in_touzi.png"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/layout_item_chartfrag_lv.xml.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/layout/item_chartfrag_lv.xml"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-mdpi_in_ershoushebei.png.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-mdpi\\in_ershoushebei.png"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-mdpi_in_shouzhai_fs.png.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-mdpi/in_shouzhai_fs.png"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-mdpi_in_lixifuji.png.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-mdpi\\in_lixifuji.png"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-mdpi_in_shezhi_fs.png.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-mdpi/in_shezhi_fs.png"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\layout_dialog_more.xml.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\layout\\dialog_more.xml"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-mdpi_ic_shuidianfei_fs.png.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-mdpi/ic_shuidianfei_fs.png"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\layout_fragment_incom_chart.xml.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\layout\\fragment_incom_chart.xml"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-mdpi_it_back.png.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-mdpi/it_back.png"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\layout_item_chartfrag_top.xml.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\layout\\item_chartfrag_top.xml"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-mdpi_ic_xuexi_fs.png.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-mdpi/ic_xuexi_fs.png"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-mdpi_ic_canyin.png.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-mdpi\\ic_canyin.png"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-mdpi_it_xiqing.png.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-mdpi/it_xiqing.png"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-mdpi_in_shouzhai_fs.png.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-mdpi\\in_shouzhai_fs.png"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/drawable_ic_launcher_background.xml.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/drawable/ic_launcher_background.xml"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-hdpi_ih_show.png.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-hdpi/ih_show.png"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-mdpi_ic_yule_fs.png.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-mdpi/ic_yule_fs.png"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-mdpi_ic_yule_fs.png.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-mdpi\\ic_yule_fs.png"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\layout_activity_music_player.xml.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\layout\\activity_music_player.xml"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-mdpi_it_shezhi.png.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-mdpi\\it_shezhi.png"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-mdpi_ic_jiaotong.png.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-mdpi/ic_jiaotong.png"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-mdpi_ic_riyongpin.png.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-mdpi\\ic_riyongpin.png"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-mdpi_it_shezhi.png.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-mdpi/it_shezhi.png"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-mdpi_ic_shuidianfei_fs.png.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-mdpi\\ic_shuidianfei_fs.png"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-hdpi_edit_btn_bg.png.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-hdpi/edit_btn_bg.png"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\layout\\activity_main.xml"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-mdpi_ic_xuexi.png.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-mdpi/ic_xuexi.png"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\drawable_details.png.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\drawable\\details.png"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-mdpi_ic_tongxun.png.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-mdpi/ic_tongxun.png"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-mdpi_ic_yiliao.png.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-mdpi\\ic_yiliao.png"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-hdpi_more.png.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-hdpi/more.png"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-mdpi_ic_gouwu.png.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-mdpi\\ic_gouwu.png"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/xml_backup_rules.xml.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/xml/backup_rules.xml"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-mdpi_in_xinzi_fs.png.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-mdpi\\in_xinzi_fs.png"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-mdpi_it_rili.png.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-mdpi/it_rili.png"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-mdpi_in_shezhi.png.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-mdpi\\in_shezhi.png"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/layout_item_recordfrag_gv.xml.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/layout/item_recordfrag_gv.xml"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\xml_key.xml.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\xml\\key.xml"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/layout_item_chartfrag_top.xml.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/layout/item_chartfrag_top.xml"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\drawable_mainlv_item_top_bg.xml.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\drawable\\mainlv_item_top_bg.xml"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-hdpi_ih_hide.png.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-hdpi/ih_hide.png"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\layout_dialog_beizhu.xml.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\layout\\dialog_beizhu.xml"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-hdpi_search.png.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-hdpi/search.png"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-mdpi_ic_tongxun.png.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-mdpi\\ic_tongxun.png"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-mdpi_it_guanyu.png.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-mdpi/it_guanyu.png"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-mdpi_in_shezhi_fs.png.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-mdpi\\in_shezhi_fs.png"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-mdpi_in_ershoushebei.png.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-mdpi/in_ershoushebei.png"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\layout_fragment_outcome.xml.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\layout\\fragment_outcome.xml"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-mdpi_ic_gouwu_fs.png.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-mdpi/ic_gouwu_fs.png"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-mdpi_ic_qita_fs.png.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-mdpi\\ic_qita_fs.png"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-mdpi_ic_renqingwanglai_fs.png.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-mdpi/ic_renqingwanglai_fs.png"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-mdpi_in_yiwai_fs.png.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-mdpi\\in_yiwai_fs.png"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-mdpi_in_xinzi_fs.png.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-mdpi/in_xinzi_fs.png"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-mdpi_ic_yule.png.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-mdpi\\ic_yule.png"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-mdpi_ic_lingshi_fs.png.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-mdpi/ic_lingshi_fs.png"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-mdpi_in_touzi.png.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-mdpi\\in_touzi.png"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-mdpi_in_lixifuji_fs.png.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-mdpi/in_lixifuji_fs.png"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\drawable_main_morebtn_bg.xml.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\drawable\\main_morebtn_bg.xml"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/layout_dialog_time.xml.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/layout/dialog_time.xml"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\layout_item_dialogcal_gv.xml.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\layout\\item_dialogcal_gv.xml"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-mdpi_in_jieru.png.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-mdpi/in_jieru.png"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-mdpi_ic_qita.png.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-mdpi\\ic_qita.png"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/drawable-v24/ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/drawable_i2.png.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/drawable/i2.png"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-hdpi_more.png.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-hdpi\\more.png"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-mdpi_ic_qita_fs.png.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-mdpi/ic_qita_fs.png"
-    },
-    {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-mdpi_ic_zhufang.png.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-mdpi/ic_zhufang.png"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-mdpi_in_yiwai.png.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-mdpi\\in_yiwai.png"
     },
     {
         "merged": "iot.b19060630.mybill.app-merged_res-19:/layout_dialog_more.xml.flat",
         "source": "iot.b19060630.mybill.app-main-21:/layout/dialog_more.xml"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-mdpi_ic_lingshi.png.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-mdpi/ic_lingshi.png"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-mdpi_ic_fushi_fs.png.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-mdpi\\ic_fushi_fs.png"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-mdpi_in_shezhi.png.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-mdpi/in_shezhi.png"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-mdpi_in_jieru.png.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-mdpi\\in_jieru.png"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-mdpi_in_qt_fs.png.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-mdpi/in_qt_fs.png"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\layout_activity_history.xml.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\layout\\activity_history.xml"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-mdpi_ic_fushi.png.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-mdpi/ic_fushi.png"
+        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-hdpi_it_music.png.flat",
+        "source": "iot.b19060630.mybill.app-main-21:/mipmap-hdpi/it_music.png"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/layout_activity_month_chart.xml.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/layout/activity_month_chart.xml"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-mdpi_in_qt_fs.png.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-mdpi\\in_qt_fs.png"
     },
     {
-        "merged": "iot.b19060630.mybill.app-merged_res-19:/mipmap-mdpi_ic_riyongpin_fs.png.flat",
-        "source": "iot.b19060630.mybill.app-main-21:/mipmap-mdpi/ic_riyongpin_fs.png"
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-mdpi_ic_gouwu_fs.png.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-mdpi\\ic_gouwu_fs.png"
+    },
+    {
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-mdpi_ic_riyongpin_fs.png.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-mdpi\\ic_riyongpin_fs.png"
+    },
+    {
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-mdpi_ic_zhufang.png.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-mdpi\\ic_zhufang.png"
+    },
+    {
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-mdpi_ic_xuexi_fs.png.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-mdpi\\ic_xuexi_fs.png"
+    },
+    {
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-mdpi_in_ershoushebei_fs.png.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-mdpi\\in_ershoushebei_fs.png"
+    },
+    {
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\mipmap-mdpi_ic_lingshi.png.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\mipmap-mdpi\\ic_lingshi.png"
+    },
+    {
+        "merged": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-merged_res-19:\\layout_activity_month_chart.xml.flat",
+        "source": "C:\\Users\\13323\\.gradle\\daemon\\7.3.3\\iot.b19060630.mybill.app-main-21:\\layout\\activity_month_chart.xml"
     }
 ]

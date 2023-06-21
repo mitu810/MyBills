@@ -37,12 +37,34 @@
         <activity
             android:name="iot.b19060630.mybill.MainActivity"
             android:exported="true" >
+
+            <!-- <intent-filter> -->
+            <!-- <action android:name="android.intent.action.MAIN" /> -->
+
+
+            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+            <!-- </intent-filter> -->
+        </activity>
+        <activity
+            android:name="iot.b19060630.mybill.LoginActivity"
+            android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="iot.b19060630.mybill.RegisterActivity"
+            android:exported="true" />
+        <activity
+            android:name="iot.b19060630.mybill.MusicPlayerActivity"
+            android:exported="true" />
+
+        <service
+            android:name="iot.b19060630.mybill.MusicPlayerService"
+            android:enabled="true"
+            android:exported="false" />
     </application>
 
 </manifest>

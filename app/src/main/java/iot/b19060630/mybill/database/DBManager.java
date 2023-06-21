@@ -45,7 +45,35 @@ public class DBManager {
         }
         return list;
     }
-
+    public static UserBean getUserByUsername(String username, String password) {
+        UserBean userBean = null;
+        String sql = "SELECT * FROM user WHERE username = '" + username + "' AND password = '" + password + "'";
+        Cursor cursor = db.rawQuery(sql, null);
+        if (cursor.moveToFirst()) {
+            int id = cursor.getInt(cursor.getColumnIndexOrThrow("id"));
+            String username1 = cursor.getString(cursor.getColumnIndexOrThrow("username"));
+            String password1 = cursor.getString(cursor.getColumnIndexOrThrow("password"));
+            String email = cursor.getString(cursor.getColumnIndexOrThrow("email"));
+            userBean = new UserBean();
+            userBean.setId(id);
+            userBean.setUsername(username1);
+            userBean.setPassword(password1);
+            userBean.setEmail(email);
+        }
+        cursor.close();
+        return userBean;
+    }
+    /*
+     * 向用户表当中插入一条元素
+     * */
+    public static long insertItemToUser(UserBean bean){
+        ContentValues values = new ContentValues();
+        values.put("username",bean.getUsername());
+        values.put("password",bean.getPassword());
+        values.put("email",bean.getEmail());
+        long log = db.insert("user",null,values);
+        return log;
+    }
     /*
     * 向记账表当中插入一条元素
     * */
