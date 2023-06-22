@@ -7,7 +7,8 @@ import android.text.InputType;
 import android.view.View;
 import android.widget.EditText;
 
-import iot.b19060630.mybills.R;
+import iot.b19060630.mybill.R;
+
 
 public class KeyBoardUtils {
     private final Keyboard k1;    //自定义键盘

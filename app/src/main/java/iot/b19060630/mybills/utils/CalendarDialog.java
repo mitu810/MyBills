@@ -22,7 +22,8 @@ import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.List;
 
-import iot.b19060630.mybills.R;
+import iot.b19060630.mybill.R;
+
 import iot.b19060630.mybills.adapter.CalendarAdapter;
 import iot.b19060630.mybills.database.DBManager;
 

@@ -8,6 +8,7 @@ import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import iot.b19060630.mybill.R;
 import iot.b19060630.mybills.database.DBManager;
 import iot.b19060630.mybills.database.DBOpenHelper;
 import iot.b19060630.mybills.database.UserBean;

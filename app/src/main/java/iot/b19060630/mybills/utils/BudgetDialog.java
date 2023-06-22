@@ -20,7 +20,7 @@ import android.widget.Toast;
 
 import androidx.annotation.NonNull;
 
-import iot.b19060630.mybills.R;
+import iot.b19060630.mybill.R;
 
 
 public class BudgetDialog extends Dialog implements View.OnClickListener {

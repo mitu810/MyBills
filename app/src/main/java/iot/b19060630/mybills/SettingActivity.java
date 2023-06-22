@@ -8,6 +8,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Toast;
 
+import iot.b19060630.mybill.R;
 import iot.b19060630.mybills.database.DBManager;
 
 public class SettingActivity extends AppCompatActivity {

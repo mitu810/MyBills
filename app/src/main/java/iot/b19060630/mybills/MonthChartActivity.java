@@ -14,6 +14,7 @@ import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.List;
 
+import iot.b19060630.mybill.R;
 import iot.b19060630.mybills.adapter.ChartVPAdapter;
 import iot.b19060630.mybills.database.DBManager;
 import iot.b19060630.mybills.frag_chart.IncomChartFragment;

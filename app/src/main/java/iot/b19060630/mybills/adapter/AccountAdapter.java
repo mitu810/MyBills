@@ -12,7 +12,7 @@ import android.widget.TextView;
 import java.util.Calendar;
 import java.util.List;
 
-import iot.b19060630.mybills.R;
+import iot.b19060630.mybill.R;
 import iot.b19060630.mybills.database.AccountBean;
 
 public class AccountAdapter extends BaseAdapter {

@@ -12,6 +12,7 @@ import com.google.android.material.tabs.TabLayout;
 import java.util.ArrayList;
 import java.util.List;
 
+import iot.b19060630.mybill.R;
 import iot.b19060630.mybills.adapter.RecordPagerAdapter;
 import iot.b19060630.mybills.frag_record.IncomeFragment;
 import iot.b19060630.mybills.frag_record.OutcomeFragment;

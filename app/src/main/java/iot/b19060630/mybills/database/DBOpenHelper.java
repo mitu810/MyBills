@@ -6,7 +6,7 @@ import android.database.sqlite.SQLiteOpenHelper;
 
 import androidx.annotation.Nullable;
 
-import iot.b19060630.mybills.R;
+import iot.b19060630.mybill.R;
 
 
 public class DBOpenHelper extends SQLiteOpenHelper {

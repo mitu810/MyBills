@@ -13,7 +13,7 @@ import android.widget.TextView;
 import java.util.ArrayList;
 import java.util.List;
 
-import iot.b19060630.mybills.R;
+import iot.b19060630.mybill.R;
 
 /*
 * 历史账单界面，点击日历表，弹出对话框，当中的GridView对应的适配器

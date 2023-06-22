@@ -43,7 +43,7 @@ INJECTED from C:\Users\13323\AndroidStudioProjects\MyBills\app\src\main\AndroidM
 INJECTED from C:\Users\13323\AndroidStudioProjects\MyBills\app\src\main\AndroidManifest.xml:2:1-59:12
 INJECTED from C:\Users\13323\AndroidStudioProjects\MyBills\app\src\main\AndroidManifest.xml:2:1-59:12
 	package
-		ADDED from C:\Users\13323\AndroidStudioProjects\MyBills\app\src\main\AndroidManifest.xml:4:5-35
+		ADDED from C:\Users\13323\AndroidStudioProjects\MyBills\app\src\main\AndroidManifest.xml:4:5-36
 		INJECTED from C:\Users\13323\AndroidStudioProjects\MyBills\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\13323\AndroidStudioProjects\MyBills\app\src\main\AndroidManifest.xml
 	android:versionName
@@ -89,43 +89,43 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\13
 	android:dataExtractionRules
 		ADDED from C:\Users\13323\AndroidStudioProjects\MyBills\app\src\main\AndroidManifest.xml:9:9-65
 	android:name
-		ADDED from C:\Users\13323\AndroidStudioProjects\MyBills\app\src\main\AndroidManifest.xml:7:9-33
-activity#iot.b19060630.mybill.MonthChartActivity
+		ADDED from C:\Users\13323\AndroidStudioProjects\MyBills\app\src\main\AndroidManifest.xml:7:9-54
+activity#iot.b19060630.mybills.MonthChartActivity
 ADDED from C:\Users\13323\AndroidStudioProjects\MyBills\app\src\main\AndroidManifest.xml:17:9-19:40
 	android:exported
 		ADDED from C:\Users\13323\AndroidStudioProjects\MyBills\app\src\main\AndroidManifest.xml:19:13-37
 	android:name
-		ADDED from C:\Users\13323\AndroidStudioProjects\MyBills\app\src\main\AndroidManifest.xml:18:13-47
-activity#iot.b19060630.mybill.SettingActivity
+		ADDED from C:\Users\13323\AndroidStudioProjects\MyBills\app\src\main\AndroidManifest.xml:18:13-68
+activity#iot.b19060630.mybills.SettingActivity
 ADDED from C:\Users\13323\AndroidStudioProjects\MyBills\app\src\main\AndroidManifest.xml:20:9-22:40
 	android:exported
 		ADDED from C:\Users\13323\AndroidStudioProjects\MyBills\app\src\main\AndroidManifest.xml:22:13-37
 	android:name
-		ADDED from C:\Users\13323\AndroidStudioProjects\MyBills\app\src\main\AndroidManifest.xml:21:13-44
-activity#iot.b19060630.mybill.HistoryActivity
+		ADDED from C:\Users\13323\AndroidStudioProjects\MyBills\app\src\main\AndroidManifest.xml:21:13-65
+activity#iot.b19060630.mybills.HistoryActivity
 ADDED from C:\Users\13323\AndroidStudioProjects\MyBills\app\src\main\AndroidManifest.xml:23:9-25:40
 	android:exported
 		ADDED from C:\Users\13323\AndroidStudioProjects\MyBills\app\src\main\AndroidManifest.xml:25:13-37
 	android:name
-		ADDED from C:\Users\13323\AndroidStudioProjects\MyBills\app\src\main\AndroidManifest.xml:24:13-44
-activity#iot.b19060630.mybill.RecordActivity
+		ADDED from C:\Users\13323\AndroidStudioProjects\MyBills\app\src\main\AndroidManifest.xml:24:13-65
+activity#iot.b19060630.mybills.RecordActivity
 ADDED from C:\Users\13323\AndroidStudioProjects\MyBills\app\src\main\AndroidManifest.xml:26:9-28:40
 	android:exported
 		ADDED from C:\Users\13323\AndroidStudioProjects\MyBills\app\src\main\AndroidManifest.xml:28:13-37
 	android:name
-		ADDED from C:\Users\13323\AndroidStudioProjects\MyBills\app\src\main\AndroidManifest.xml:27:13-43
-activity#iot.b19060630.mybill.MainActivity
+		ADDED from C:\Users\13323\AndroidStudioProjects\MyBills\app\src\main\AndroidManifest.xml:27:13-64
+activity#iot.b19060630.mybills.MainActivity
 ADDED from C:\Users\13323\AndroidStudioProjects\MyBills\app\src\main\AndroidManifest.xml:29:9-37:20
 	android:exported
 		ADDED from C:\Users\13323\AndroidStudioProjects\MyBills\app\src\main\AndroidManifest.xml:31:13-36
 	android:name
-		ADDED from C:\Users\13323\AndroidStudioProjects\MyBills\app\src\main\AndroidManifest.xml:30:13-41
-activity#iot.b19060630.mybill.LoginActivity
+		ADDED from C:\Users\13323\AndroidStudioProjects\MyBills\app\src\main\AndroidManifest.xml:30:13-62
+activity#iot.b19060630.mybills.LoginActivity
 ADDED from C:\Users\13323\AndroidStudioProjects\MyBills\app\src\main\AndroidManifest.xml:38:9-45:20
 	android:exported
 		ADDED from C:\Users\13323\AndroidStudioProjects\MyBills\app\src\main\AndroidManifest.xml:40:13-36
 	android:name
-		ADDED from C:\Users\13323\AndroidStudioProjects\MyBills\app\src\main\AndroidManifest.xml:39:13-42
+		ADDED from C:\Users\13323\AndroidStudioProjects\MyBills\app\src\main\AndroidManifest.xml:39:13-63
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from C:\Users\13323\AndroidStudioProjects\MyBills\app\src\main\AndroidManifest.xml:41:13-44:29
 action#android.intent.action.MAIN
@@ -136,26 +136,26 @@ category#android.intent.category.LAUNCHER
 ADDED from C:\Users\13323\AndroidStudioProjects\MyBills\app\src\main\AndroidManifest.xml:43:17-77
 	android:name
 		ADDED from C:\Users\13323\AndroidStudioProjects\MyBills\app\src\main\AndroidManifest.xml:43:27-74
-activity#iot.b19060630.mybill.RegisterActivity
+activity#iot.b19060630.mybills.RegisterActivity
 ADDED from C:\Users\13323\AndroidStudioProjects\MyBills\app\src\main\AndroidManifest.xml:47:9-49:38
 	android:exported
 		ADDED from C:\Users\13323\AndroidStudioProjects\MyBills\app\src\main\AndroidManifest.xml:49:13-36
 	android:name
-		ADDED from C:\Users\13323\AndroidStudioProjects\MyBills\app\src\main\AndroidManifest.xml:48:13-45
-activity#iot.b19060630.mybill.MusicPlayerActivity
+		ADDED from C:\Users\13323\AndroidStudioProjects\MyBills\app\src\main\AndroidManifest.xml:48:13-66
+activity#iot.b19060630.mybills.MusicPlayerActivity
 ADDED from C:\Users\13323\AndroidStudioProjects\MyBills\app\src\main\AndroidManifest.xml:50:9-52:38
 	android:exported
 		ADDED from C:\Users\13323\AndroidStudioProjects\MyBills\app\src\main\AndroidManifest.xml:52:13-36
 	android:name
-		ADDED from C:\Users\13323\AndroidStudioProjects\MyBills\app\src\main\AndroidManifest.xml:51:13-48
-service#iot.b19060630.mybill.MusicPlayerService
+		ADDED from C:\Users\13323\AndroidStudioProjects\MyBills\app\src\main\AndroidManifest.xml:51:13-69
+service#iot.b19060630.mybills.MusicPlayerService
 ADDED from C:\Users\13323\AndroidStudioProjects\MyBills\app\src\main\AndroidManifest.xml:53:9-56:40
 	android:enabled
 		ADDED from C:\Users\13323\AndroidStudioProjects\MyBills\app\src\main\AndroidManifest.xml:55:13-35
 	android:exported
 		ADDED from C:\Users\13323\AndroidStudioProjects\MyBills\app\src\main\AndroidManifest.xml:56:13-37
 	android:name
-		ADDED from C:\Users\13323\AndroidStudioProjects\MyBills\app\src\main\AndroidManifest.xml:54:13-47
+		ADDED from C:\Users\13323\AndroidStudioProjects\MyBills\app\src\main\AndroidManifest.xml:54:13-68
 uses-sdk
 INJECTED from C:\Users\13323\AndroidStudioProjects\MyBills\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\13323\AndroidStudioProjects\MyBills\app\src\main\AndroidManifest.xml
