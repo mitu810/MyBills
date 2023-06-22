@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "iot.b19060630.mybills.app-mergeDebugResources-17:/values-iw/values-iw.xml",
+            "outputFile": "iot.b19060630.mybill.app-mergeDebugResources-17:/values-iw/values-iw.xml",
             "map": [
                 {
                     "source": "C:\\Users\\13323\\.gradle\\caches\\transforms-3\\35c69b59585be5ab8e4b75884f21579b\\transformed\\material-1.4.0\\res\\values-iw\\values-iw.xml",

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="iot.b19060630.mybills">
+    package="iot.b19060630.mybill">
 
     <application
-        android:name="iot.b19060630.mybills.UniteApp"
+        android:name="iot.b19060630.mybill.UniteApp"
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
@@ -15,19 +15,19 @@
         android:theme="@style/Theme.AppCompat.NoActionBar"
         tools:targetApi="31">
         <activity
-            android:name="iot.b19060630.mybills.MonthChartActivity"
+            android:name="iot.b19060630.mybill.MonthChartActivity"
             android:exported="false" />
         <activity
-            android:name="iot.b19060630.mybills.SettingActivity"
+            android:name="iot.b19060630.mybill.SettingActivity"
             android:exported="false" />
         <activity
-            android:name="iot.b19060630.mybills.HistoryActivity"
+            android:name="iot.b19060630.mybill.HistoryActivity"
             android:exported="false" />
         <activity
-            android:name="iot.b19060630.mybills.RecordActivity"
+            android:name="iot.b19060630.mybill.RecordActivity"
             android:exported="false" />
         <activity
-            android:name="iot.b19060630.mybills.MainActivity"
+            android:name="iot.b19060630.mybill.MainActivity"
             android:exported="true">
 <!--            <intent-filter>-->
 <!--                <action android:name="android.intent.action.MAIN" />-->
@@ -36,7 +36,7 @@
 <!--            </intent-filter>-->
         </activity>
         <activity
-            android:name="iot.b19060630.mybills.LoginActivity"
+            android:name="iot.b19060630.mybill.LoginActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -45,13 +45,13 @@
         </activity>
 
         <activity
-            android:name="iot.b19060630.mybills.RegisterActivity"
+            android:name="iot.b19060630.mybill.RegisterActivity"
             android:exported="true"/>
         <activity
-            android:name="iot.b19060630.mybills.MusicPlayerActivity"
+            android:name="iot.b19060630.mybill.MusicPlayerActivity"
             android:exported="true"/>
         <service
-            android:name="iot.b19060630.mybills.MusicPlayerService"
+            android:name="iot.b19060630.mybill.MusicPlayerService"
             android:enabled="true"
             android:exported="false" />
     </application>
